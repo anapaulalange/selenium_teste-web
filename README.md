@@ -1,7 +1,7 @@
 # Lojinha Web
 Automação de teste com JUnit e Selenium Web Driver 
 
-Justificativa:
+JUSTIFICATIVA:
 
 - Automação WEB do projeto 'Lojinha' utilizando JUnit e Selenium Web Driver 
 
